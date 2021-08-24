@@ -1,4 +1,4 @@
-=== _s ===
+=== neta_is_dope ===
 
 Contributors: automattic
 Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
@@ -10,11 +10,11 @@ Stable tag: 1.0.0
 License: GNU General Public License v2 or later
 License URI: LICENSE
 
-A starter theme called _s, or underscores.
+A starter theme called neta_is_dope.
 
 == Description ==
 
-Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.
+Hi! I'm named neta_is_dope,. I'm a theme meant for hacking so don't use me as a Parent Theme. I'm a work in progress, but someday you'll depend on me!
 
 == Installation ==
 
